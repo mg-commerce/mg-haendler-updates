@@ -1,8 +1,20 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.3",
   "datum": "21.11.2026",
   "download": "",
   "verlauf": [
+    {
+      "version": "0.4.3",
+      "datum": "21.11.2026",
+      "neu": [
+        "Import-Assistent: eBay-Transaktionsbericht einlesen – neue Verkäufe, fehlende Gebühren und Porto mit einem Klick",
+        "Versand frei wählbar (DHL, Post, Hermes, DPD, GLS, UPS …) mit eigener Packtisch-Checkliste",
+        "Lieferanten frei pflegbar, Rechnung einlesen für alle Lieferanten",
+        "Übersicht: Einnahmen/Ausgaben nebeneinander mit Beträgen",
+        "Eingabefelder immer mit Rahmen"
+      ],
+      "download": ""
+    },
     {
       "version": "0.4.0",
       "datum": "21.11.2026",
