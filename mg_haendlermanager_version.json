@@ -1,8 +1,21 @@
 {
-  "version": "0.1.0",
+  "version": "0.4.0",
   "datum": "21.11.2026",
   "download": "",
   "verlauf": [
+    {
+      "version": "0.4.0",
+      "datum": "21.11.2026",
+      "neu": [
+        "Logo & Marke: eigenes Logo, weitere Marken mit eigenem Logo",
+        "Einrichtungsassistent beim ersten Start",
+        "Vorführ-Modus mit Beispielshop",
+        "Backup wiederherstellen und Probedaten löschen",
+        "Hilfe anfragen per E-Mail oder WhatsApp",
+        "Etsy als Verkaufskanal"
+      ],
+      "download": ""
+    },
     {
       "version": "0.1.0",
       "datum": "21.11.2026",
