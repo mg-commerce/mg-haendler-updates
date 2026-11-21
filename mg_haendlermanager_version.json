@@ -1,8 +1,17 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "datum": "21.11.2026",
   "download": "",
   "verlauf": [
+    {
+      "version": "0.7.0",
+      "datum": "21.11.2026",
+      "neu": [
+        "Windows-Setup (ohne Administratorrechte), Desktop-Symbol, Vorführung im Startmenü",
+        "Lizenzbedingungen und Bedienungsanleitung"
+      ],
+      "download": ""
+    },
     {
       "version": "0.6.0",
       "datum": "21.11.2026",
