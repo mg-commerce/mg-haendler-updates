@@ -1,8 +1,21 @@
 {
-  "version": "0.4.3",
+  "version": "0.6.0",
   "datum": "21.11.2026",
   "download": "",
   "verlauf": [
+    {
+      "version": "0.6.0",
+      "datum": "21.11.2026",
+      "neu": [
+        "Steuer & Abschluss: Monatsabschluss mit Paket (ZIP) für Steuerberater mit oder ohne DATEV oder für die eigene Steuererklärung",
+        "GoBD-Schutz: Änderungsprotokoll mit Prüfkette, Festschreibung abgeschlossener Monate",
+        "Verfahrensdokumentation als PDF",
+        "Preisrechner: Mindestpreis für Ziel-Marge, Vergleich aller Kanäle",
+        "Software-Pflege mit Hinweis vor Ablauf",
+        "Shopify-Import"
+      ],
+      "download": ""
+    },
     {
       "version": "0.4.3",
       "datum": "21.11.2026",
