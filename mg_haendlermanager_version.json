@@ -1,8 +1,21 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "datum": "21.11.2026",
   "download": "",
   "verlauf": [
+    {
+      "version": "0.8.0",
+      "datum": "21.11.2026",
+      "neu": [
+        "Pflichten-Check: Verpackung (LUCID), Elektro und Batterien einfach erklärt – nur was für Sie gilt",
+        "Verpackungsmengen automatisch aus den Verkäufen berechnet, fertig für LUCID und das duale System",
+        "Hinweis auf Altverträge mit dem dualen System (gelten höchstens bis 31.12.2026)",
+        "Wo die Registriernummern auf eBay, Amazon, Kaufland & Co. eingetragen werden",
+        "Start-Checkliste für neue Händler (Gewerbe, Finanzamt, Rechtstexte)",
+        "Farbwelten wie im MG Betriebsmanager (Nachtblau, Schiefer, Wald, Clean Light) und einstellbare Schriftgröße"
+      ],
+      "download": ""
+    },
     {
       "version": "0.7.0",
       "datum": "21.11.2026",
