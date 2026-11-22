@@ -1,8 +1,22 @@
 {
-  "version": "0.8.0",
-  "datum": "21.11.2026",
-  "download": "",
+  "version": "0.8.1",
+  "datum": "22.11.2026",
+  "download": "https://github.com/mg-commerce/mg-haendler-updates/releases/download/v0.8.1/MG_Haendlermanager_Setup.exe",
   "verlauf": [
+    {
+      "version": "0.8.1",
+      "datum": "22.11.2026",
+      "neu": [
+        "Auslandsrechnungen (Reverse-Charge § 13b): Programm liest die Rechnungs-PDFs, erkennt Meta, Google, Shopify, eBay & Co. und erinnert an die Umsatzsteuer-Voranmeldung – mit ELSTER-Kennzahlen",
+        "Startseite: „Was bleibt übrig?“ mit Steuer-Schätzung, Umsatz je Plattform, eigene Aufgabenliste, Lager mit Produktfotos",
+        "Import von PayPal- und Shopify-Payments-Gebühren, Sperre für bereits abgegebene Steuerjahre",
+        "Rechnung direkt aus einem Verkauf erstellen",
+        "Datenschutz-Vertrag (AVV) für Fernwartung direkt im Programm, Hilfe-Anfrage überarbeitet",
+        "Beleg-Nummern können nicht mehr doppelt vergeben werden; Fristen lassen sich abhaken",
+        "Bedienungsanleitung überarbeitet (17 Kapitel)"
+      ],
+      "download": "https://github.com/mg-commerce/mg-haendler-updates/releases/download/v0.8.1/MG_Haendlermanager_Setup.exe"
+    },
     {
       "version": "0.8.0",
       "datum": "21.11.2026",
