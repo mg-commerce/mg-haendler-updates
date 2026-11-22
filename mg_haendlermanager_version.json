@@ -1,7 +1,7 @@
 {
   "version": "0.8.1",
   "datum": "22.11.2026",
-  "download": "https://github.com/mg-commerce/mg-haendler-updates/releases/download/v0.8.1/MG_Haendlermanager_Setup.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-haendler-updates/main/setups/MG_Haendlermanager_Setup_v0.8.1.exe",
   "verlauf": [
     {
       "version": "0.8.1",
@@ -15,7 +15,7 @@
         "Beleg-Nummern können nicht mehr doppelt vergeben werden; Fristen lassen sich abhaken",
         "Bedienungsanleitung überarbeitet (17 Kapitel)"
       ],
-      "download": "https://github.com/mg-commerce/mg-haendler-updates/releases/download/v0.8.1/MG_Haendlermanager_Setup.exe"
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-haendler-updates/main/setups/MG_Haendlermanager_Setup_v0.8.1.exe"
     },
     {
       "version": "0.8.0",
