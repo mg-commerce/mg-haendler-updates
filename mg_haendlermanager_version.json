@@ -1,8 +1,21 @@
 {
-  "version": "0.8.1",
-  "datum": "22.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-haendler-updates/main/setups/MG_Haendlermanager_Setup_v0.8.1.exe",
+  "version": "0.8.2",
+  "datum": "28.11.2026",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-haendler-updates/main/setups/MG_Haendlermanager_Setup_v0.8.2.exe",
   "verlauf": [
+    {
+      "version": "0.8.2",
+      "datum": "28.11.2026",
+      "neu": [
+        "eBay-Import liest den neuen Transaktionsbericht (seit November 2026) wieder",
+        "Lager: Produktfotos auch für Betriebsmaterial, Fotos und nicht mehr verkaufte Artikel entfernen (mit Sicherung)",
+        "Der PC geht nicht in den Energiesparmodus, solange das Programm läuft",
+        "Neue Kontaktdaten: info@mgcommerce-online.de und mgcommerce-online.de",
+        "Programm-Symbol und Farbe im MG-Orange, passend zum MG Betriebsmanager",
+        "Dunkle Farbwelten: Steuerjahr-Auswahl und Knöpfe in der Seitenleiste gut lesbar"
+      ],
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-haendler-updates/main/setups/MG_Haendlermanager_Setup_v0.8.2.exe"
+    },
     {
       "version": "0.8.1",
       "datum": "22.11.2026",
